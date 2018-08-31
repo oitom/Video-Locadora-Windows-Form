@@ -1,0 +1,697 @@
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+F:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.903.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.903.tlog
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.903.tlog
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.903.tlog
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+K:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\Interop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\Interop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora\video_locadoura\obj\x86\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+J:\IFSP-CJ\3ºModulo\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+G:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+F:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+F:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+F:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+F:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+H:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+H:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+H:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\IFSP-CJ\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+G:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+G:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+J:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+J:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+J:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+J:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+J:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\IFSP-CJ\Tecnico\3ºModulo\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+G:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+G:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+G:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\Interop.WMPLib.dll
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.csproj.ResolveComReference.cache
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.exe
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.pdb
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.exe
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\video_locadora.pdb
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\Interop.WMPLib.dll
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\bin\Debug\AxInterop.WMPLib.dll
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Senha.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Categoria.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Filme.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Usuario.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Filme.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Excluir_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.FormNova_Cidade.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Filme.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Alterar_Usuario.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cadastro_genero.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Consulta_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Altera_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Cliente_Consulta.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Login.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Filme.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Atualiza_Usuario.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Usuario.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Novo_Filme.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Principal.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Devolucao.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Locacao.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Loc_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Ano.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Cliente.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Dia.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filmes_Locados.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Filme_Todos.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Relatorio_Mes.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Splash.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Form_Visualizar_Filmes.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\video_locadora.Properties.Resources.resources
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IFSP\Tecnico\3º-MOD\PJS\PJS Trabalho\video_locadora\video_locadora - Cópia\video_locadoura\obj\x86\Debug\GenerateResource.write.1.tlog

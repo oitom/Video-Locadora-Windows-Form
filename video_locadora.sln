@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video_locadora", "video_locadoura\video_locadora.csproj", "{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}.Debug|x86.ActiveCfg = Debug|x86
+		{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}.Debug|x86.Build.0 = Debug|x86
+		{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}.Release|x86.ActiveCfg = Release|x86
+		{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

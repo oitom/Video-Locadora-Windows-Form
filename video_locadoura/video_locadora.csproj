@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FE61A75-6907-46F1-B0AB-EAC5F1399CAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>video_locadora</RootNamespace>
+    <AssemblyName>video_locadora</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Filmes.cs" />
+    <Compile Include="Form_Alterar_Senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alterar_Senha.Designer.cs">
+      <DependentUpon>Form_Alterar_Senha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Categoria.Designer.cs">
+      <DependentUpon>Form_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Consulta_Filme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Consulta_Filme.designer.cs">
+      <DependentUpon>Form_Consulta_Filme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Excluir_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Excluir_Usuario.designer.cs">
+      <DependentUpon>Form_Excluir_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Excluir_Filme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Excluir_Filme.designer.cs">
+      <DependentUpon>Form_Excluir_Filme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Excluir_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Excluir_Cliente.Designer.cs">
+      <DependentUpon>Form_Excluir_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNova_Cidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNova_Cidade.Designer.cs">
+      <DependentUpon>FormNova_Cidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Alterar_Filme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alterar_Filme.Designer.cs">
+      <DependentUpon>Form_Alterar_Filme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Alterar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alterar_Usuario.Designer.cs">
+      <DependentUpon>Form_Alterar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Cadastro_genero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Cadastro_genero.Designer.cs">
+      <DependentUpon>Form_Cadastro_genero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Consulta_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Consulta_Cliente.Designer.cs">
+      <DependentUpon>Form_Consulta_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Alterar_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alterar_Cliente.designer.cs">
+      <DependentUpon>Form_Alterar_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Cliente_Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Cliente_Consulta.designer.cs">
+      <DependentUpon>Form_Cliente_Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Atualiza_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Atualiza_Cliente.designer.cs">
+      <DependentUpon>Form_Atualiza_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Atualiza_Filme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Atualiza_Filme.designer.cs">
+      <DependentUpon>Form_Atualiza_Filme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Atualiza_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Atualiza_Usuario.designer.cs">
+      <DependentUpon>Form_Atualiza_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Novo_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Novo_Usuario.Designer.cs">
+      <DependentUpon>Form_Novo_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Novo_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Novo_Cliente.Designer.cs">
+      <DependentUpon>Form_Novo_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Novo_Filme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Novo_Filme.Designer.cs">
+      <DependentUpon>Form_Novo_Filme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Principal.Designer.cs">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Devolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Devolucao.Designer.cs">
+      <DependentUpon>Form_Devolucao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Locacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Locacao.Designer.cs">
+      <DependentUpon>Form_Locacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Loc_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Loc_Cliente.Designer.cs">
+      <DependentUpon>Form_Loc_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Ano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Ano.Designer.cs">
+      <DependentUpon>Form_Relatorio_Ano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Cliente.Designer.cs">
+      <DependentUpon>Form_Relatorio_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Dia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Dia.Designer.cs">
+      <DependentUpon>Form_Relatorio_Dia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Filmes_Locados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Filmes_Locados.Designer.cs">
+      <DependentUpon>Form_Relatorio_Filmes_Locados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Filme_Todos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Filme_Todos.Designer.cs">
+      <DependentUpon>Form_Relatorio_Filme_Todos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Relatorio_Mes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Relatorio_Mes.Designer.cs">
+      <DependentUpon>Form_Relatorio_Mes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Splash.Designer.cs">
+      <DependentUpon>Form_Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Visualizar_Filmes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Visualizar_Filmes.designer.cs">
+      <DependentUpon>Form_Visualizar_Filmes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ToolTipHelper.cs" />
+    <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="Form_Alterar_Senha.resx">
+      <DependentUpon>Form_Alterar_Senha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Categoria.resx">
+      <DependentUpon>Form_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Consulta_Filme.resx">
+      <DependentUpon>Form_Consulta_Filme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Excluir_Usuario.resx">
+      <DependentUpon>Form_Excluir_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Excluir_Filme.resx">
+      <DependentUpon>Form_Excluir_Filme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Excluir_Cliente.resx">
+      <DependentUpon>Form_Excluir_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNova_Cidade.resx">
+      <DependentUpon>FormNova_Cidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Alterar_Filme.resx">
+      <DependentUpon>Form_Alterar_Filme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Alterar_Usuario.resx">
+      <DependentUpon>Form_Alterar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Cadastro_genero.resx">
+      <DependentUpon>Form_Cadastro_genero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Consulta_Cliente.resx">
+      <DependentUpon>Form_Consulta_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Alterar_Cliente.resx">
+      <DependentUpon>Form_Alterar_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Cliente_Consulta.resx">
+      <DependentUpon>Form_Cliente_Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Atualiza_Cliente.resx">
+      <DependentUpon>Form_Atualiza_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Atualiza_Filme.resx">
+      <DependentUpon>Form_Atualiza_Filme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Atualiza_Usuario.resx">
+      <DependentUpon>Form_Atualiza_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Novo_Usuario.resx">
+      <DependentUpon>Form_Novo_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Novo_Cliente.resx">
+      <DependentUpon>Form_Novo_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Novo_Filme.resx">
+      <DependentUpon>Form_Novo_Filme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Principal.resx">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Devolucao.resx">
+      <DependentUpon>Form_Devolucao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Locacao.resx">
+      <DependentUpon>Form_Locacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Loc_Cliente.resx">
+      <DependentUpon>Form_Loc_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Ano.resx">
+      <DependentUpon>Form_Relatorio_Ano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Cliente.resx">
+      <DependentUpon>Form_Relatorio_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Dia.resx">
+      <DependentUpon>Form_Relatorio_Dia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Filmes_Locados.resx">
+      <DependentUpon>Form_Relatorio_Filmes_Locados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Filme_Todos.resx">
+      <DependentUpon>Form_Relatorio_Filme_Todos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Relatorio_Mes.resx">
+      <DependentUpon>Form_Relatorio_Mes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Splash.resx">
+      <DependentUpon>Form_Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Visualizar_Filmes.resx">
+      <DependentUpon>Form_Visualizar_Filmes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload-256.png" />
+    <None Include="Resources\novo-2.jpg" />
+    <None Include="Resources\novo-1.jpg" />
+    <None Include="Resources\trailer.png" />
+    <None Include="Resources\trailer.ico" />
+    <None Include="Resources\pesquisar_cliente.png" />
+    <None Include="Resources\pesquisar_filme.jpg" />
+    <None Include="Resources\masculino.jpg" />
+    <None Include="Resources\feminino.jpg" />
+    <None Include="Resources\semfoto.jpg" />
+    <EmbeddedResource Include="Resources\icone-de-usuario-do-sexo-feminino_17-1127031654.jpg" />
+    <None Include="Resources\add_cliente.png" />
+    <None Include="Resources\Login.png" />
+    <None Include="Resources\editar_cliente.png" />
+    <None Include="Resources\AddFilme.jpg" />
+    <None Include="Resources\filme.jpg" />
+    <None Include="Resources\database.png" />
+    <None Include="Resources\Delete-256.png" />
+    <None Include="Resources\Download-256%281%29.png" />
+    <Content Include="Resources\masculino-usuario-clip-art-icon_419253.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
